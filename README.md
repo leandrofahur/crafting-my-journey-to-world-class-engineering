@@ -1,4 +1,4 @@
-# Crafting My Journey to a World-Class Engineering
+# Crafting My Journey to World-Class Engineering
 
 ## 1. Introduction
 

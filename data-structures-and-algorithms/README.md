@@ -1,32 +1,34 @@
 # Data Structures and Algorithms
 
-The structure for this module is based heavily on the book [Introduction to Algorithms](https://a.co/d/gmwJrs7)
+The structure for this module is based heavily on the book [Introduction to Algorithms](https://a.co/d/gmwJrs7).
+
+The ~strike-through~ topics will be ignored for now.
 
 ## Part I: Foundations
 
 - [ ] Characterizing Running Times
 - [ ] Divide-and-Conquer
-- [ ] Probabilistic Analysis and Randomized Algorithms
+- [ ] ~Probabilistic Analysis and Randomized Algorithms~
 
 ## Part II: Sorting and Order Statistics
 
 - [ ] Heapsort
 - [ ] Quicksort
 - [ ] Sorting in Linear Time
-- [ ] Medians and Order Statistics
+- [ ] ~Medians and Order Statistics~
 
 ## Part III: Data Structures
 
 - [ ] Elementary Data Structures
 - [ ] Hash Tables
 - [ ] Binary Search Trees
-- [ ] Red-Black Trees
+- [ ] ~Red-Black Trees~
 
 ## Part IV: Advanced Design and Analysis Techniques
 
 - [ ] Dynamic Programming
 - [ ] Greedy Algorithms
-- [ ] Amortized Analysis
+- [ ] ~Amortized Analysis~
 
 ## Part V: Advanced Data Structures
 
@@ -49,14 +51,14 @@ The structure for this module is based heavily on the book [Introduction to Algo
 - [ ] Online Algorithms
 - [ ] Matrix Operations
 - [ ] Linear Programming
-- [ ] Polynomials and the FFT
-- [ ] Number-Theoretic Algorithms
-- [ ] String Matching
-- [ ] Machine-Learning Algorithms
-- [ ] NP-Completeness
-- [ ] Approximation Algorithms
+- [ ] ~Polynomials and the FFT~
+- [ ] ~Number-Theoretic Algorithms~
+- [ ] ~String Matching~
+- [ ] ~Machine-Learning Algorithms~
+- [ ] ~NP-Completeness~
+- [ ] ~Approximation Algorithms~
 
-## Appendices:Mathematical Background
+## Appendices: Mathematical Background
 
 - [ ] Summations
 - [ ] Sets, Etc.
